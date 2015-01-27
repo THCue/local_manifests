@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--Please do not manually edit this file-->
 <manifest>
-  <project name="DirtyUnicorns/android_device_qcom-common" path="device/qcom/common" remote="github" revision="lollipop-caf" />
+  <project name="THCue/android_device_qcom-common" path="device/qcom/common" remote="github" revision="lollipop-caf" />
   <project name="THCue/device_lge_d850" path="device/lge/d850" remote="github" revision="lollipop-caf" />
   <project name="THCue/android_device_lge_g3-common" path="device/lge/g3-common" remote="github" revision="lollipop-caf" />
-  <project name="/tectas/android_kernel_lge_msm8974ac" path="kernel/lge/g3" remote="github" revision="rin-cm-12.0" />
+  <project name="THCue/android_kernel_lge_g3" path="kernel/lge/g3" remote="github" revision="lollipop-caf" />
   <project name="THCue/android_vendor_lge" path="vendor/lge" remote="github" revision="lollipop-caf" />
 </manifest>
